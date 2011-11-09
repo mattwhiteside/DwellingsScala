@@ -1,0 +1,1 @@
+This project was an experiment to see if I could get an extremely simple scala webserver reading from a database with the squeryl ORM, and render the results as a binary plist for consumption by an iOS device.
